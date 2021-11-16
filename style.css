@@ -1,0 +1,15 @@
+﻿.container{
+	position: relative;
+    width: 100%;
+    height: 110vh;
+    min-height: 35rem;
+    padding: 10rem 0;
+	background: url(img/bg-signup.jpg);
+    color: rgb(255, 255, 255);
+}
+.address{
+    position: centre;
+    width: 50%;
+    height: 100vh;
+    justify-content: center;
+}
